@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { StyleSheet, SafeAreaView, Image, Text, View, TouchableOpacity, TextInput , ToastAndroid, Button } from 'react-native';
+import { StyleSheet, SafeAreaView, Image, Text, View, TouchableOpacity, TextInput , ToastAndroid } from 'react-native';
 import SvgQRCode from 'react-native-qrcode-svg';
 import Modal from "react-native-modal";
 
