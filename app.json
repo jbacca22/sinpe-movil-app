@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "sinpe-movil",
+    "name": "Sinpe Móvil",
     "slug": "sinpe-movil",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/sinpe-movil-2.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "splash": {
@@ -29,6 +29,8 @@
     },
     "web": {
       "favicon": "./assets/images/favicon.png"
-    }
+    },
+    "description": "Sinpe movil app ",
+    "githubUrl": "https://github.com/jbacca22/sinpe-movil-app"
   }
 }
